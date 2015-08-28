@@ -1,4 +1,8 @@
-空的板块
+<header>
+<nav> 
+<dir id = "topnav">
+</dir>
+<dir Id 
 <?php
 /*用于读取API记录
 $textapi用于保存text文档的信息
